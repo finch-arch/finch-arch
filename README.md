@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)]
+[![MasterHead](https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e479u5xqdc2schxybv86qg095w76lfy7szu5pattnws&rid=giphy.gif&ct=g)](https://finch-arch.io)
 <h1 align="center">Hi 👋, I'm Vishal Kumar Mahto</h1>
 <h3 align="center">Hi I'm Vishal Kumar Mahto . I'm a Second Year Undergraduate at Birla Institute of Technology , Mesra pursuing Production and Industrial Engineering.My Interest lies in Data Structure and Algorthims and Web development.</h3>
 <img align="right" alt = "coding" width = "400" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif">
